@@ -1,4 +1,4 @@
-# Danyloz/fine_tuned_Qwen2.5-7B-Instruct_CUADv1 - Private, Uncensored AI for Real Creators and Devs
+# Danyloz/fine_tuned_Qwen2.5-7B-Instruct_CUADv1  - Private, Uncensored AI for Real Creators and Devs
 
 > Tired of AI that babysits you, logs your prompts, or hits you with "I can't do that"?
 > Meet the next-gen chatbot built for freedom, speed, and digital sovereignty.
